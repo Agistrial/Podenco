@@ -1,1 +1,22 @@
-sasdaw
+Feature :
+1. Info operators : Perfurmer's dataset, Archetype and build preference
+2. Basic node : Mats farm node, Banner farm node, etc
+3. Effeciency table : Cert Shop+tips, 
+4. Other tips
+5. Basic settings : Update links
+6. Basic commands : Ping, ops list, little chitchat
+
+I. Info operators
+Embed? dont need to ig
+Just send the picture
+
+II. Basic node + Effeciency table
+Just pic links and a bit description
+
+III. Other tips
+Just text
+
+IV. basic settings
+Update links
+
+Make sure more like podenco ehehe
